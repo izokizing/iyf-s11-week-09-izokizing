@@ -19,3 +19,4 @@ function UserProfile({ userId }) {
     return <div>{user.name}</div>;
 }
 
+export default UserProfile;
