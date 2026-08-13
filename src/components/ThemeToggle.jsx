@@ -15,3 +15,5 @@ function ThemeToggle() {
         </button>
     );
 }
+
+export default ThemeToggle;
