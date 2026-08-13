@@ -23,3 +23,4 @@ function WindowSize() {
     return <p>Window: {size.width} x {size.height}</p>;
 }
 
+export default WindowSize;
