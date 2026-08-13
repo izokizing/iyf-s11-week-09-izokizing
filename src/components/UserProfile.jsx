@@ -13,7 +13,7 @@ function UserProfile({ userId }) {
         }
         
         fetchUser();
-    }, [userId]);  // Re-fetch when userId changes
+    }, [userId]); 
     
     if (loading) return <p>Loading...</p>;
     return <div>{user.name}</div>;
