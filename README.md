@@ -5,7 +5,7 @@
 - **DATE:** August 14, 2026
 
 ## PROJECT DESCRIPTION
-- 
+- React patterns including effects, data fetching, routing, and styling.
 ## TECHNOLOGIES USED
 - HTML
 - Javascript
